@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T10:30:16.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.3.0" etag="O4b444XUxzrBHR_nQs7J" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T10:32:02.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="53GaJypmGgywseB2fHea" version="21.3.0" type="github">
   <diagram name="Page-1" id="YHeC8bGhoqaY-DXKIV5D">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vrx4OluXBbH5NYP2DlJs-1" value="&lt;div&gt;Class Objects&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vrx4OluXBbH5NYP2DlJs-2" value="&lt;div&gt;Attribute reference&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vrx4OluXBbH5NYP2DlJs-3" value="&lt;div&gt;Instantiation&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="100" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Vrx4OluXBbH5NYP2DlJs-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.57;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Vrx4OluXBbH5NYP2DlJs-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vrx4OluXBbH5NYP2DlJs-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vrx4OluXBbH5NYP2DlJs-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
