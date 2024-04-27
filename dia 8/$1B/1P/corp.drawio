@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T11:53:26.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YS0Os4TlfqbHiQCahE2t" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T12:05:38.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9LCFLYfLaw2UREE1tcBm" version="24.3.1" type="github">
   <diagram name="Page-1" id="3irY8fL_UrNZU5FSW00O">
-    <mxGraphModel dx="5560" dy="4290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4448" dy="3432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,8 +242,159 @@
         <mxCell id="QDepJh0iqW0fqt1_Ypf1-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDepJh0iqW0fqt1_Ypf1-11" target="QDepJh0iqW0fqt1_Ypf1-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDepJh0iqW0fqt1_Ypf1-73" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Expandables&lt;/h1&gt;&lt;p&gt;There&#39;s no real limit to what people might want.&amp;nbsp;&lt;/p&gt;&lt;p&gt;New desires are constantly being created through marketing and innovation. This creates a potentially larger market for businesses to target.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDepJh0iqW0fqt1_Ypf1-73" target="QDepJh0iqW0fqt1_Ypf1-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1310" />
+              <mxPoint x="355" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-73" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Expandables&lt;/h1&gt;&lt;p&gt;There&#39;s no real limit to what people might want.&amp;nbsp;&lt;/p&gt;&lt;p&gt;New desires are constantly being created through marketing and innovation. This creates a potentially larger market for businesses to target.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="1042" width="180" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-93" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1220" width="315" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-94" value="Limited Edition" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry width="315" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-95" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-94">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-96" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-94">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-97" value="To &quot;Fit In&quot;" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry width="315" height="20" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-98" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF3B2F;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-97">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-99" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-97">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-100" value="Expert reviews or Recommended" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry width="315" height="20" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-101" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#4CDA64;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-100">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-102" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-100">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-103" value="Awarded or Recognized" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry width="315" height="20" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-104" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#007AFF;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-103">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-105" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-103">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-106" value="Patritismo or country of origin" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry width="315" height="20" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-107" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#5855D6;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-106">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-108" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-106">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-109" value="Free trials or Money-Back Guaranteed" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry width="315" height="20" relative="1" as="geometry">
+            <mxPoint y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-110" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#8F8E94;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-109">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-111" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-109">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-113" value="Word of Mouth" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry y="120" width="315" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-114" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;arcSize=50;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-113">
+          <mxGeometry y="0.5" width="15" height="15.5" relative="1" as="geometry">
+            <mxPoint x="5" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-115" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-113">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-116" value="Social Media Trends and Challenges&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Limited%20Edition%22%20style%3D%22shape%3Drect%3BstrokeColor%3Dnone%3BfontSize%3D10%3BfontColor%3D%23000000%3BresizeWidth%3D1%3Balign%3Dleft%3BspacingLeft%3D25%3BspacingTop%3D2%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22355%22%20y%3D%221220%22%20width%3D%22315%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22shape%3Drect%3Brounded%3D1%3BrSize%3D3%3BstrokeColor%3Dnone%3BfillColor%3D%23FF9501%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%220.5%22%20width%3D%2215%22%20height%3D%2215%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%225%22%20y%3D%22-7.5%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22shape%3Dmxgraph.ios7.misc.right%3BstrokeColor%3D%23666666%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%221%22%20y%3D%220.5%22%20width%3D%225%22%20height%3D%2210%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-15%22%20y%3D%22-5%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry y="140" width="315" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-117" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-116">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-118" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-116">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-119" value="Celebrity endorsements" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry y="160" width="315" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-120" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-119">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-121" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-119">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-122" value="Social media influenced" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-93">
+          <mxGeometry y="180" width="315" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-123" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-122">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDepJh0iqW0fqt1_Ypf1-124" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="QDepJh0iqW0fqt1_Ypf1-122">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
